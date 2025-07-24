@@ -114,4 +114,3 @@ This structure and syntax provide a solid foundation, but feel free to adjust th
 - Use tools like `remark` or `mdast` to lint and validate your markdown.
 - Consider writing your README in a structured format using markdown linting tools to maintain consistency.
 
-By following these guidelines, your README should effectively communicate with your users and contributors.
